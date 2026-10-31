@@ -1,0 +1,5 @@
+# Host-side dependencies for ios_proxy_manager.py
+# Install with: pip3 install -r requirements.txt
+
+paramiko>=5.1.0
+psutil>=7.2.2
